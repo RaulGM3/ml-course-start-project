@@ -1,0 +1,25 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+
+/env/.ipynb-checkpoints
+/env/translations
+/env/qml
+/env/plugins
+/env/translations
+/env/phrasebooks
+/env/mkspecs
+/env/doc
+/env/libexec
+/env/mysql-test
+/env/mysql
+/env/sbin
+/env/cmake
+/env/etc
+/env/share
+/env/ssl
+/env/man
+/env/lib
+/env/include
+/env/bin
+/env/conda-meta
